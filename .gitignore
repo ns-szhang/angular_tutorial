@@ -1,0 +1,11 @@
+vendor
+*.pyc
+*.egg-info
+test_reports
+build
+gearbox*
+dist
+node_modules
+bower_components
+lib
+static
